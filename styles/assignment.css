@@ -31,6 +31,9 @@
     border: none;
     border-radius: 10px;
 }
+body{
+    background-color: rgba(78, 71, 255, 0.1);
+}
 
 /* header styles */
 .header-container{
