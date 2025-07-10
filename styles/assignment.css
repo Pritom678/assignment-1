@@ -30,8 +30,14 @@
     background-color: #4E47FF;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #1099a3;
+
 }
 body{
+    max-width: 1440px;
     background-color: rgba(78, 71, 255, 0.1);
 }
 
