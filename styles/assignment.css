@@ -307,6 +307,7 @@ body{
     width: 1440px;
     height: 390px;
     background-color: white;
+    padding-top: 120px;
 }
 .footer-container h1{
     font-size: 100px;
